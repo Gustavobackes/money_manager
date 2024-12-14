@@ -1,4 +1,4 @@
-# Controle Financeiro Pessoal/Familiar
+# Controle Financeiro Pessoal
 
 Este é um software desenvolvido para controle financeiro pessoal/familiar, permitindo registrar entradas, saídas, metas financeiras, e simulando o progresso em direção a essas metas. O sistema inclui também alertas para gastos excessivos e relatórios detalhados para análise financeira.
 
