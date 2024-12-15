@@ -1,0 +1,23 @@
+
+# Ambientes Virtuais
+.venv/
+venv/
+
+# Arquivos Python Compilados
+*.pyc
+*.pyo
+__pycache__/
+
+# Configurações de IDEs
+.idea/
+.vscode/
+
+# Dados Sensíveis e Configurações Locais
+.env
+
+# Docker Volumes
+docker/postgres/data/
+
+# Arquivos do Sistema
+.DS_Store
+Thumbs.db
