@@ -12,12 +12,11 @@ __pycache__/
 .idea/
 .vscode/
 
-# Dados Sensíveis e Configurações Locais
-.env
-
 # Docker Volumes
 docker/postgres/data/
 
 # Arquivos do Sistema
 .DS_Store
 Thumbs.db
+./data/pgadmin/
+./data/postgres/
